@@ -22,12 +22,12 @@ Features we want to get done before we release the next major update!
 
 ### Features
 - ✅ Nav bar
-- 🛠️ Player class
-  - ❌ xp
-  - ❌ level system
-  - ❌ strength
-  - ❌ health
-- ❌ User Profile Page
+- ✅ Player class
+  - ✅ xp
+  - ✅ level system
+  - ✅ strength
+  - ✅ health
+- 🛠️ User Profile Page
 - ❌ Saving and loading with Local Storage
 
 

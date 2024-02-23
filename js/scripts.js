@@ -1,3 +1,7 @@
+import { Player } from "./player.js" 
+
+const player = new Player()
+
 // Nav buttons
 
 Array.from(document.getElementsByClassName("page-button")).forEach(button => {
@@ -16,3 +20,5 @@ function changePage(page) {
     // show new page
     pageElem.style.display = "flex"
 }
+
+console.log(player)
