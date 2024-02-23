@@ -17,12 +17,12 @@ Features we want to get done before we release the next major update!
 
 ### Key
 - ✅ = Fully implemented
-- 🛠️ = Being worked on
+- 🛠️ = Working on next
 - ❌ = Not done at all
 
 ### Features
-- ❌ Nav bar 
-- ❌ Player class
+- ✅ Nav bar
+- 🛠️ Player class
   - ❌ xp
   - ❌ level system
   - ❌ strength
