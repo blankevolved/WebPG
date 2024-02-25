@@ -28,6 +28,7 @@ Features we want to get done before we release the next major update!
   - ✅ strength
   - ✅ health
   - ❌ skills
+- ❌ testing buttons (for xp, skills, etc)
 - 🛠️ Stats Page
 - ❌ Saving and loading with Local Storage
 
