@@ -21,13 +21,14 @@ Features we want to get done before we release the next major update!
 - ❌ = Not done at all
 
 ### Features
-- ✅ Nav bar
+- ✅ Page System
 - ✅ Player class
   - ✅ xp
   - ✅ level system
   - ✅ strength
   - ✅ health
-- 🛠️ User Profile Page
+  - ❌ skills
+- 🛠️ Stats Page
 - ❌ Saving and loading with Local Storage
 
 
